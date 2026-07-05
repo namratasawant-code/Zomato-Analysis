@@ -68,6 +68,4 @@ The Power BI dashboard (`ZOMATO DASHBOARD.pbix`) brings the analysis together in
 2. **Excel**: Open `analysis/zomato reataurants analysis in Excel (1).xlsx` to review the exploratory analysis and pivot tables.
 3. **Power BI**: Open `dashboard/ZOMATO DASHBOARD.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to interact with the live dashboard.
 
-## 👤 Author
 
-*Add your name, LinkedIn, and a short intro line here.*
